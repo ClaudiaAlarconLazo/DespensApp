@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DespensApp Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Hola, </string>
+    <string name="nav_header_subtitle">Claudia Alejandra</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="hnt_name">Nombre</string>
+    <string name="hnt_surnames">Apellidos</string>
+    <string name="hnt_mail">Correo electrónico</string>
+    <string name="hnt_password">Contraseña</string>
+    <string name="txv_account">Selecciona un tipo de cuenta</string>
+    <string name="rdb_premium_account">Premium ($)</string>
+    <string name="rdb_free_acoount">Gratuita</string>
+    <string name="btn_create_account">Crear Cuenta</string>
+    <string name="txv_question_account">¿Ya tienes una cuenta?</string>
+    <string name="txv_enter">ENTRA</string>
+
+    <string name="hnt_user_mail">Usuario o correo electrónico</string>
+    <string name="btn_enter">Ingresar</string>
+    <string name="btn_">Ingresar</string>
+
+    <string name="menu_start">Inicio</string>
+    <string name="menu_input">Ingreso de productos</string>
+    <string name="menu_output">Egreso de productos</string>
+    <string name="menu_inventory">Inventario de productos</string>
+    <string name="menu_notification">Notificaciones</string>
+    <string name="menu_setting">Ajustes</string>
+    <string name="menu_logout">Salir</string>
+</resources>
